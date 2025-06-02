@@ -1,8 +1,10 @@
-# The Kolektivo Framework
-![klk-open-graph](https://user-images.githubusercontent.com/99011533/188893809-76aa8868-f0d8-4566-809e-05702b77c4cc.png)
+![Regenerative Banner](https://cdn.prod.website-files.com/5fcaa3a6fcb269f7778d1f87/64b10eb991823df4e52e2358_OpenGraph.webp)
 
-The challenges of the 21st century — such as climate change and financial crises — require new tools that help local communities be competitive and antifragile against global forces. The Kolektivo framework is a collection of institutional technologies that open up new opportunities for local communities to govern and finance themselves. Kolektivo offers a regenerative alternative to serve local communities and ecosystems underserved or harmed in the present-day.
+<p align="center">
+  <a href="https://www.kolektivo.network/">
 
-Using the framework, communities can create and leverage new types of assets and monies to advance their own economies based on environmental stewardship, innovation, and social impact. Kolektivo empowers communities to assign self-sovereign roles and responsibilities to their own stewards and leaders, empowering them to issue new economic policies and divert grant funding towards community-identified causes. A helpful payments application — the Kolektivo wallet — helps connect and reinforce relationships between buyers and sellers of the community’s currency, providing an easy way to list, find, and pay for local goods and services.
+<p align="center">Enabling changemakers with cutting-edge technology to achieve regenerative developments in local communities</p>
 
-The Kolektivo Network, a global-local coalition of innovators, impact investors, and local stewards, will support and launch the first community economy on the island of Curaçao in late 2022. The pilot aims to prove the general viability of the framework, and specifically that syntropic food forest tokens — a new type of natural capital asset based on regenerative agroforestry — can be used to create cGuilder, the community currency. The pilot’s learnings will be used to iterate on the framework and expand the network to additional pilots.
+<p align="center">
+  <a href="https://www.kolektivo.network/" target="_blank" rel="noopener"> Website</a> | <a href="https://app.kolektivo.network/" target="_blank" rel="noopener"> Web App</a> | <a href="https://docs.kolektivo.network/" target="_blank" rel="noopener"> Documentation</a> | <a href="https://x.com/Kolektivo" target="_blank" rel="noopener">Twitter</a>
+</p>
